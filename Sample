@@ -4,5 +4,6 @@ public class helloworld {
 	//TODO Auto-generated method stub
 		System.out.println("Hello Samy");
 		System.out.println("Welcome to Jenkins");
+		System.out.println("Welcome to Samy Jenkins World");
  }
 }
